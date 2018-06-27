@@ -1,55 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b851fb73-1e3a-4081-8a0b-3f6ecad61773" name="Default" comment="First Orudievo Commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Orudievo Summer 2018.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aam.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/artem.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/drug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/evgandser.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/evgentos.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/maxim1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/arsenalnoe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/belenkaya.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/chezh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/doshirak.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/glonass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/heinz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/kirieshki.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/liaz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/natasha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/nornikel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/rzhd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/svyat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/tri.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/vanya.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/worldcup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/partnership/x5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pattern.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/program/fire.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/program/football.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/program/grill.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/program/swim.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/program/trampoline.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/program/twister.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sergay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/untitled.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bokal_orange.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fasol.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/meal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/music.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/people.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/star.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/where.svg" />
+    <list default="true" id="b851fb73-1e3a-4081-8a0b-3f6ecad61773" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -244,12 +197,20 @@
       <workItem from="1529960672902" duration="1331000" />
       <workItem from="1530018220927" duration="490000" />
       <workItem from="1530022959899" duration="28229000" />
-      <workItem from="1530091196199" duration="4430000" />
+      <workItem from="1530091196199" duration="4575000" />
     </task>
+    <task id="LOCAL-00001" summary="Бэкап до реструктуризации файлов CSS">
+      <created>1530098274289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530098274289</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87846000" />
+    <option name="totallyTimeSpent" value="87991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -283,7 +244,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Orudievo Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Orudievo Commit" />
+    <MESSAGE value="Бэкап до реструктуризации файлов CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Бэкап до реструктуризации файлов CSS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
